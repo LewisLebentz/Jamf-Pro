@@ -96,7 +96,7 @@ if [[ $defaultPasswordAttempts -ge 5 ]]; then
 tell application "System Events"
 activate
 display dialog "You have entered mis-matching passwords five times. Please come to the IT desk for assistance." ¬
-with title "Techaway Support" ¬
+with title "IT" ¬
 buttons {"Continue."} ¬
 default button 1
 end tell
