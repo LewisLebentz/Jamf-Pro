@@ -1,4 +1,4 @@
-#!/bin/sh/usr/bin/perl/usr/bin/python
+#!/usr/bin/python
 import json
 import urllib2
 import os.path
